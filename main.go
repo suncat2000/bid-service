@@ -5,7 +5,7 @@ import (
 	"net/http"
 	"fmt"
 	"log"
-	"github.com/suncat2000/requester/requester"
+	"github.com/suncat2000/bid-service/requester"
 )
 
 func main() {
